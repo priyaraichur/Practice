@@ -1,1 +1,2 @@
 git dummy comit 1
+git dummy comit 2 
