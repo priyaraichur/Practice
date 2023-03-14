@@ -1,2 +1,5 @@
 git dummy comit 1
 git dummy comit 2 
+
+git 1 reset 
+i dont want to lose it 
